@@ -23,9 +23,7 @@ Computer Science graduate. Learning MERN Stack. Specaility in Front-end web deve
 </p>
 <br/>
 
-## 📊 My Github Stats
 
-<br/>
 
 
 <h3>Get in touch with me</h3>
