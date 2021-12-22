@@ -5,7 +5,7 @@ Computer Science graduate. Learning MERN Stack. Specaility in Front-end web deve
 <br/>
 
 
-<a href="https://anishtiwari09.github.io/PortFolioProject/">
+<a href="https://anishtiwari09.github.io/PortFolioProject/" target="_blank">
     <b>My Portfolio Link</b>
 </a>
 <br />
@@ -41,6 +41,6 @@ Computer Science graduate. Learning MERN Stack. Specaility in Front-end web deve
     </a>
 </p>
 <br />
-<a href="https://anishtiwari09.github.io/PortFolioProject/">
+<a href="https://anishtiwari09.github.io/PortFolioProject/" target="_blank">
     Visit my website
 </a>
