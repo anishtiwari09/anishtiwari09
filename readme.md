@@ -36,7 +36,7 @@ Computer Science graduate. Learning MERN Stack. Specaility in Front-end web deve
     <a href="https://www.linkedin.com/in/anish-tewari-5a5050215/" target="_open">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a> 
-    <a href="tewarianish09@gmail.com" target="_open">
+    <a href="mailto:tewarianish09@gmail.com" target="_open">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </p>
