@@ -1,11 +1,11 @@
 <h1 align="left">Hi  I'm Anish Tewari</h1>
 
-Computer Science graduate. Learning MERN Stack. Specaility in Front-end web development and knowledge in front-end development technology like React, javascript etc. Want to make a carrer as full stack webdeveloper.
+Computer Science Engineer building software across the frontend and backend. Currently focused on Java, Spring Boot, Retrieval-Augmented Generation (RAG), and Agentic AI while continuously expanding my full-stack engineering toolki
 <br/>
 <br/>
 
 
-<a href="https://anishtiwari09.github.io/PortFolioProject/" target="_blank">
+<a href="https://portfolio.devanish.in" target="_blank">
     <b>My Portfolio Link</b>
 </a>
 <br />
