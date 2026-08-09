@@ -1,6 +1,6 @@
 <h1 align="left">Hi  I'm Anish Tewari</h1>
 
-Computer Science Engineer building software across the frontend and backend. Currently focused on Java, Spring Boot, Retrieval-Augmented Generation (RAG), and Agentic AI while continuously expanding my full-stack engineering toolki
+Computer Science Engineer building software across the frontend and backend. Currently focused on Java, Spring Boot, RAG, and Agentic AI while continuously expanding my full-stack engineering toolkit
 <br/>
 <br/>
 
