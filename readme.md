@@ -41,6 +41,6 @@ Computer Science Engineer building software across the frontend and backend. Cur
     </a>
 </p>
 <br />
-<a href="https://anishtiwari09.github.io/PortFolioProject/" target="_blank">
+<a href="https://portfolio.devanish.in" target="_blank">
     Visit my website
 </a>
